@@ -1,0 +1,12 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Stamps.com\Database\WebPostage]
+"ApplicationIntent"="ReadWrite"
+"Database"="WebPostage"
+"FailOverPartner"="sdc15db05.stage02.aws.local"
+"Listener"="vsdc15db-ls01.stage02.aws.local"
+"MultiSubnetFailover"="True"
+"Password"="Pw4_wp_sp_use!"
+"Server"="sdc15db05.stage02.aws.local"
+"UID"="wp_sp_user"
+
