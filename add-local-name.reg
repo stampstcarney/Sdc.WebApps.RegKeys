@@ -1,0 +1,21 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Stamps.Com\Server\ContentService]
+"ServerBaseUrl"="YOURMACHINE-wlt.corp.stamps.com"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Stamps.Com\Server\OnlineReporting]
+"ContentServiceBaseUrl"="https://YOURMACHINE-wlt.corp.stamps.com/"
+"ContentServiceHeaderUrl"="https://YOURMACHINE-wlt.corp.stamps.com/"
+"AccountApiUrl"="https://YOURMACHINE-wlt.corp.stamps.com/accountapi/v1"
+"WebPostageSignInUrl"="https://YOURMACHINE-wlt.corp.stamps.com"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Stamps.Com\Server\SWSIM]
+"OnlineReportingBase"="https://YOURMACHINE-wlt.corp.stamps.com"
+"ORReportsBase"="https://YOURMACHINE-wlt.corp.stamps.com"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Stamps.Com\Server\WebClient]
+"AllowedTargetOrigin"="https://YOURMACHINE-wlt.corp.stamps.com,https://print.testing.stamps.com,https://print.testing.endicia.com,https://or.testing.stamps.com,https://or.testing.endicia.com,https://print.qa003.stamps.dev,https://or.qa003.aws.local,https://or.qa004.aws.local,https://print.qa005.stamps.dev,https://or.qa005.aws.local,https://print.qa007.stamps.dev,https://or.qa007.aws.local"
+"CutoverHostname"="https://YOURMACHINE-wlt.corp.stamps.com/accountnew"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Stamps.Com\Server\WebPostage]
+"ContentServiceUrl"="https://YOURMACHINE-wlt.corp.stamps.com"
